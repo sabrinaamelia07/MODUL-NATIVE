@@ -15,5 +15,6 @@
 #![AltText](https://github.com/sabrinaamelia07/MODUL-NATIVE/blob/master/peminjaman.PNG "Tujuh")
 # Delapan
 #![AltText](https://github.com/sabrinaamelia07/MODUL-NATIVE/blob/master/detail_peminjaman.PNG "Delapan")
+# Mohon maaf pak,harusnya statusnya itu sudah kembali tapi sudah saya coba cari kesalahannya dan saya benarkan tapi hasilnya tetap begitu pak:)
 # Sembilan
 #![AltText](https://github.com/sabrinaamelia07/MODUL-NATIVE/blob/master/edit-peminjaman.PNG "Sembilan")

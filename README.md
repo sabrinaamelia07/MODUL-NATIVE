@@ -1,6 +1,7 @@
 # MODUL-NATIVE
 #Satu
 #![AltText](https://github.com/sabrinaamelia07/MODUL-NATIVE/blob/master/login.PNG "Satu")
+# Login dengan menggunakan username dan password petugas,seperti admin01 dengan password "admin01"
 #Dua
 #![AltText](https://github.com/sabrinaamelia07/MODUL-NATIVE/blob/master/dashboard.PNG "Dua")
 #Tiga
